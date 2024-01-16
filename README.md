@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate **with people and companies looking for help with data extraction, analysis and visualization projects, using Python, PowerBI or Excel.**
 
-- 🌱 I’m currently studying **machine learning, so I can help you to construct of a complete machine learning pipeline with the scikit-learn library, in order to generate knowledge or make predictions from data.**
+- 🌱 I’m currently studying **machine learning, so I can help you to construct a complete machine learning pipeline with the scikit-learn library, in order to generate knowledge or make predictions from data.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/dcladeira](https://github.com/dcladeira)
 
